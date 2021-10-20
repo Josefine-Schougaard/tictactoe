@@ -1,0 +1,41 @@
+
+table{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(108, 121, 121);
+}
+td{
+    border: 3px solid white;
+    height: 70px;
+}
+
+h1{
+    font-size: 70px;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 700;
+    margin: 50px 0;
+}
+
+h2{
+    font-size: 40px;
+    letter-spacing: 1.5px;
+    font-family: 'Dosis', sans-serif;
+}
+
+button{
+    font-family: 'Dosis', sans-serif;
+}
+
+.players{
+    font-family: 'Dosis', sans-serif;
+    font-weight: 500;
+}
+
+#playerxStat, #playeroStat{
+    font-family: 'Dosis', sans-serif;
+    font-weight: 500;
+}
+
+.game{
+    margin-bottom: 200px;
+}
